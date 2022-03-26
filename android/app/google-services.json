@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445482882975",
+    "firebase_url": "https://dieout-2ea4f.firebaseio.com",
+    "project_id": "dieout-2ea4f",
+    "storage_bucket": "dieout-2ea4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445482882975:android:2fe9ea24ec3d581b5c4faa",
+        "android_client_info": {
+          "package_name": "com.mycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445482882975-njcnm988pplb8e80tl4shddof17r81bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWfkabfRGGY5Q5piDuIVdmwDS7Rba_IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445482882975-njcnm988pplb8e80tl4shddof17r81bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
